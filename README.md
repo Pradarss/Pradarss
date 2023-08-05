@@ -2,7 +2,7 @@
 ### 💬 Ask me about WebDev or DSA
 ### 📫 How to reach me: verma0025adarsh@gmail.com
 
-[![Pradarss's github stats](https://github-readme-stats.vercel.app/api?username=Pradarss)](https://github.com/anuraghazra/github-readme-stats)
+### [![Pradarss's github stats](https://github-readme-stats.vercel.app/api?username=Pradarss)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradarss)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
